@@ -1,5 +1,5 @@
 👋 Hi, I’m @Bhardwaj-Sameer<br>
-👀 I’m interested in getting a JOB<br>
+👀 I’m interested in doing some real work<br>
 🌱 I’m currently learning Python and AI <br>
 💞️ I’m looking to collaborate on Python Projects<br>
 📫 How to reach me sameerisbhardwaj@gmail.com<br>
