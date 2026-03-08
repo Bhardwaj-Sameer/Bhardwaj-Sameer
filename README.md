@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on Python Projects<br>
 📫 How to reach me saming.inbox@gmail.com<br>
 😄 Pronouns: He/Him<br>
-⚡ Fun fact: I have unlocked my Bankai<br>
+
 
 <!---
 Bhardwaj-Sameer/Bhardwaj-Sameer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
